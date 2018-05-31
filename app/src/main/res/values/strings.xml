@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiStatusLayoutManager</string>
+    <string name="error_text">数据出错...</string>
+    <string name="no_network_text">无网络，请重试...</string>
+    <string name="empty_text">数据为空...</string>
+    <string name="loading_text">正在加载...</string>
+</resources>

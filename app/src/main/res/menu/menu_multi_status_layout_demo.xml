@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/loading_status_id"
+        android:title="正在加载视图"
+        app:showAsAction="never|withText" />
+
+    <item
+        android:id="@+id/no_network_id"
+        android:title="网络错误视图"
+        app:showAsAction="never|withText" />
+
+    <item
+        android:id="@+id/error_view_id"
+        android:title="数据错误视图"
+        app:showAsAction="never|withText"/>
+
+    <item
+        android:id="@+id/empty_view_id"
+        android:title="空数据视图"
+        app:showAsAction="never|withText" />
+
+    <item
+        android:id="@+id/content_view_id"
+        android:title="内容视图"
+        app:showAsAction="never|withText" />
+</menu>
